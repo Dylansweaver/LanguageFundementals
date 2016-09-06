@@ -1,5 +1,9 @@
 package com.example;
 
+/*
+Dylan Weaver
+This program is to show the data types and giving examples of them
+ */
 public class MyClass
 {
 
